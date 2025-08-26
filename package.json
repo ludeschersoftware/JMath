@@ -1,0 +1,22 @@
+{
+    "name": "@ludeschersoftware/math",
+    "version": "1.0.0",
+    "description": "A modern, modular math toolkit for TypeScript and JavaScript, built for clarity, precision, and performance.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ludeschersoftware/JMath.git"
+    },
+    "keywords": [
+        "math"
+    ],
+    "author": "Johannes Ludescher",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ludeschersoftware/JMath/issues"
+    },
+    "homepage": "https://github.com/ludeschersoftware/JMath#readme"
+}
