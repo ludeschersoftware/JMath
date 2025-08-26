@@ -1,5 +1,3 @@
-## 📘 `@ludeschersoftware/math`
-
 A lightweight, zero-dependency math utility library for TypeScript and JavaScript — starting simple, scaling smart.
 
 Whether you're building games, crunching data, or just need a reliable random number generator, this package is designed to be clean, fast, and developer-friendly. It’s the beginning of a modular math toolkit that grows with your needs.
